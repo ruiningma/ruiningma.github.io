@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-#url:                https://ruiningma.github.io
+# url:                https://ruiningma.github.io
 
 # Jekyll
 permalink:          /Ruining/
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:		   ruining.ma@uq.net.au
+email:               ruining.ma@uq.net.au
 #twitter:            username
 #facebook:           username
 github-url:         ruiningma

@@ -1,6 +1,10 @@
 ---
-layout: project
+layout: page
 title: Contacts
-excerpt: "A List of Projects"
 comments: false
 ---
+
+## Contacts
+* Email: ruining.ma@uq.net.au
+* Tel: (+61) 426 910725
+
