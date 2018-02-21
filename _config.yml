@@ -1,5 +1,5 @@
 # Site
-title:              Ruining
+title:              Ruining Ma
 bio:                'Certified NAATI Translator and Interpreter; based in Canberra.'
 description:        "description"
 reading_time:       true
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://ruiningma.github.io
+#url:                https://ruiningma.github.io
 
 # Jekyll
 permalink:          /Ruining/
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:		   ruining.ma@uq.net.au
+#twitter:            username
+#facebook:           username
+github-url:         ruiningma
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
