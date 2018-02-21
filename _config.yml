@@ -1,5 +1,5 @@
 # Site
-title:              Ruining Ma
+title:              Ruining
 bio:                'Certified NAATI Translator and Interpreter; based in Canberra.'
 description:        "description"
 reading_time:       true
@@ -11,7 +11,7 @@ locale:             en_US
 url:                https://ruiningma.github.io
 
 # Jekyll
-permalink:          /:title/
+permalink:          /Ruining/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
