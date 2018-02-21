@@ -1,7 +1,7 @@
 # Site
 title:              Ruining Ma
-bio:                'Certified NAATI Translator and Interpreter; based in Canberra.'
-description:        "description"
+bio:                'Certified NAATI Chinese Translator and Interpreter; based in Canberra.'
+description:        "Canberra Chinese NAATI translator and interpreter"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -11,7 +11,7 @@ locale:             en_US
 # url:                https://ruiningma.github.io
 
 # Jekyll
-permalink:          /Ruining/
+# permalink:          /Ruining/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -68,6 +68,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
 
 jekyll-mentions:
     base_url: https://github.com
